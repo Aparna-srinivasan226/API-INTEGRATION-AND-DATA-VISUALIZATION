@@ -54,6 +54,10 @@ A Python script that:
 * Improved data analysis and visualization skills.
 * Understood how to build simple dashboards and real-time data apps.
 
+OUTPUT:
+
+<img width="960" height="600" alt="Image" src="https://github.com/user-attachments/assets/8349ecd1-aefa-4b54-a0b6-f95698319c04" />
+
   
   
 
