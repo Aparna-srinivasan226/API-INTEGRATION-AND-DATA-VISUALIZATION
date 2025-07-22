@@ -54,7 +54,6 @@ A Python script that:
 * Improved data analysis and visualization skills.
 * Understood how to build simple dashboards and real-time data apps.
 
-  OUTPUT:
-
-  https://github.com/Aparna-srinivasan226/API-INTEGRATION-AND-DATA-VISUALIZATION/issues/1#issue-3251980269
+  
+  
 
